@@ -1,0 +1,33 @@
+.home{
+    width: 100%;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(5, 5, 80);
+    background-color:rgb(223, 165, 165)
+}
+.about{
+width: 100%;
+justify-content: center;
+display: flex;
+text-align: center;
+align-items: center;
+flex-direction:column-reverse
+
+}
+.about h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 80px;
+    color: rgb(13, 20, 1);
+    height: 50px;
+}
+.promt{
+    size: 50px;
+    color: black;
+}
+.item{
+    font-family:Arial, Helvetica, sans-serif;
+    flex-direction: row;
+}
+.h3{
+    font-weight: 900;font-size: larger;
+}
