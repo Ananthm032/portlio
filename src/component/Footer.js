@@ -12,7 +12,7 @@ function Footer() {
         <TwitterIcon/>
         < FacebookIcon/>
     </div>
-    <p>Copyright © 2022 . All rights reserved.</p>
+    <p>Copyright © 2022.All rights reserved.</p>
     </div>
   )
 }
