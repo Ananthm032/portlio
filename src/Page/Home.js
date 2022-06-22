@@ -14,26 +14,26 @@ function Home() {
           <GitHubIcon />
           <EmailIcon/>
           </div>         
-      <div className="Skill"><h1>Skill</h1>
+      <div className="Skill"><h1>Personal Skills:</h1>
         <ol className="list">
           <li className="item"><h3 className="h3">Front-End</h3>
           <span>CSS
-          JavaScript/jQuery<br/>
-           Frameworks<br/>
-           Responsive Design<br/>
-           Version Control/Git<br/>
-           Web Performance.</span>
+          JavaScript/jQuery<br/><hr/>
+           Frameworks<br/><hr/>
+           Responsive Design<br/><hr/>
+           Version Control/Git<br/><hr/>
+           Web Performance</span>
           </li>
        
     <li className="item"><h3 className="h3">Back-End</h3>
-  <span>Knowledge of Front-End Technology<br/>
-        Knowledge of Backend Frameworks<br/>
-Version Control System<br/>
-Knowledge of Databases<br/>
+  <span>Knowledge of Front-End Technology<br/><hr/>
+        Knowledge of Backend Frameworks<br/><hr/>
+Version Control System<br/><hr/>
+Knowledge of Databases<br/><hr/>
 Knowledge of API<br/>
 </span>
     </li>
-     <li><h3 className="h3">Language</h3><span>Java <br/> JavaScript<br/>  C<br/>C++</span></li></ol>
+     <li><h3 className="h3">Language</h3><span>Java <br/> <hr/>JavaScript<br/> <hr/> C<br/><hr/>C++</span></li></ol>
 
 </div>
       </div>

@@ -2,17 +2,12 @@
     width: 100%;
     align-items: center;
     font-family: Arial, Helvetica, sans-serif;
-    color: rgb(5, 5, 80);
-    background-color:rgb(223, 165, 165)
+    color: rgb(171, 14, 177);
+    justify-content: flex-end;
 }
 .about{
-width: 100%;
-justify-content: center;
 display: flex;
-text-align: center;
-align-items: center;
-flex-direction:column-reverse
-
+margin-top: -300px;
 }
 .about h2{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -21,7 +16,7 @@ flex-direction:column-reverse
     height: 50px;
 }
 .promt{
-    size: 50px;
+   font-size: x-large;
     color: black;
 }
 .item{
@@ -30,4 +25,8 @@ flex-direction:column-reverse
 }
 .h3{
     font-weight: 900;font-size: larger;
+}
+.Skill{
+    margin-right: 20px;
+    margin-bottom: 20px;
 }
